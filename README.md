@@ -1,12 +1,63 @@
+[![HackMD documents](http://localhost:3000/badge.svg)](http://localhost:3000/@yukai/Yukaii-documentation-tester)
+
+[![HackMD documents](/badge.svg)](/@yukai/Yukaii-documentation-tester)
+[![HackMD documents](https://img.shields.io/badge/HackMD-documents-333333.svg?longCache=true&logoWidth=13&style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTc5MiIgaGVpZ2h0PSIxNzkyIiB2aWV3Qm94PSIwIDAgMTc5MiAxNzkyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0xNTk2IDQ3NnExNCAxNCAyOCAzNmgtNDcydi00NzJxMjIgMTQgMzYgMjh6bS00NzYgMTY0aDU0NHYxMDU2cTAgNDAtMjggNjh0LTY4IDI4aC0xMzQ0cS00MCAwLTY4LTI4dC0yOC02OHYtMTYwMHEwLTQwIDI4LTY4dDY4LTI4aDgwMHY1NDRxMCA0MCAyOCA2OHQ2OCAyOHptMTYwIDczNnYtNjRxMC0xNC05LTIzdC0yMy05aC03MDRxLTE0IDAtMjMgOXQtOSAyM3Y2NHEwIDE0IDkgMjN0MjMgOWg3MDRxMTQgMCAyMy05dDktMjN6bTAtMjU2di02NHEwLTE0LTktMjN0LTIzLTloLTcwNHEtMTQgMC0yMyA5dC05IDIzdjY0cTAgMTQgOSAyM3QyMyA5aDcwNHExNCAwIDIzLTl0OS0yM3ptMC0yNTZ2LTY0cTAtMTQtOS0yM3QtMjMtOWgtNzA0cS0xNCAwLTIzIDl0LTkgMjN2NjRxMCAxNCA5IDIzdDIzIDloNzA0cTE0IDAgMjMtOXQ5LTIzeiIgZmlsbD0iI2ZmZiIvPjwvc3ZnPg==)](http://localhost:3000/@yukai/Yukaii-documentation-tester)
 ---
-disqus: hackmd
+id: accessibility
+title: Accessibility
+permalink: docs/accessibility.html
+description: asdfasdf jkl;jkl;kjkl; jk;jk;
 ---
 
-# asdfasdf
+# The new tit asdfasdfasdf bhjkjlk;jlkjl lkj ;lkj ;lkj  jkl;k
+
+## gggWhy Aceecessibility?g
+
+sdfsfwewgrbrgwegv
+
+<kbd>asdfasdf</kbd>
+
+fdbfbdbddbwfewf
+
+
+
+{% api-method method="get" host="" path="" %}
+{% api-method-summary %}
+Get the fucking repo
+{% endapi-method-summary %}
+
+{% api-method-description %}
+
+{% endapi-method-description %}
+
+{% api-method-spec %}
+{% api-method-request %}
+{% api-method-path-parameters %}
+{% api-method-parameter name="" type="string" required=false %}
+
+{% endapi-method-parameter %}
+{% endapi-method-path-parameters %}
+{% endapi-method-request %}
+
+{% api-method-response %}
+{% api-method-response-example httpCode=200 %}
+{% api-method-response-example-description %}
+
+{% endapi-method-response-example-description %}
+
+```text
+
+```
+{% endapi-method-response-example %}
+{% endapi-method-response %}
+{% endapi-method-spec %}
+{% endapi-method %}
+
+Web accessibility \(also referred to as [**a11y**](https://en.wiktionary.org/wiki/a11y)\) is the design and creation of websites that can be used by everyone. Accessibility support is necessary to allow assistive technology to interpret web pages.
+
+React fully supports building accessible websites, often by using standard HTML techniques.
 
 ## Standards and Guidelines
-
-asdfasdfasdf
 
 ### WCAG
 
