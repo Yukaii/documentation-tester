@@ -4,24 +4,7 @@ disqus: hackmd
 
 ## Standards and Guidelines
 
-asdfasdas
-
-
-sfasdf
-
 asdfasdfasdf
-
-### WCAG
-
-The [Web Content Accessibility Guidelines](https://www.w3.org/WAI/intro/wcag) provides guidelines for creating accessible web sites.
-
-The following WCAG checklists provide an overview:
-
-* [WCAG checklist from Wuhcag](https://www.wuhcag.com/wcag-checklist/)
-* [WCAG checklist from WebAIM](http://webaim.org/standards/wcag/checklist)
-* [Checklist from The A11Y Project](http://a11yproject.com/checklist.html)
-
-### WAI-ARIA
 
 The [Web Accessibility Initiative - Accessible Rich Internet Applications](https://www.w3.org/WAI/intro/aria) document contains techniques for building fully accessible JavaScript widgets.
 
