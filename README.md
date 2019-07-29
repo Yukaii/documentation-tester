@@ -18,6 +18,8 @@ The following WCAG checklists provide an overview:
 
 ### WAI-ARIA
 
+Add s
+
 The [Web Accessibility Initiative - Accessible Rich Internet Applications](https://www.w3.org/WAI/intro/aria) document contains techniques for building fully accessible JavaScript widgets.
 
 Note that all `aria-*` HTML attributes are fully supported in JSX. Whereas most DOM properties and attributes in React are camelCased, these attributes should be hyphen-cased \(also known as kebab-case, lisp-case, etc\) as they are in plain HTML:
